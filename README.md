@@ -6,7 +6,7 @@ Tracking my progress solving Data Structures & Algorithms problems across the **
 
 | # | Pattern | Solved | Status |
 |---|---|---|---|
-| 01 | [Two Pointers](./01-Two-Pointers) | 3 | In Progress |
+| 01 | [Two Pointers](./01-Two-Pointers) | 11 | In Progress |
 | 02 | Fast and Slow Pointer | 0 | Pending |
 | 03 | Sliding Window | 0 | Pending |
 | 04 | Merge Intervals | 0 | Pending |
